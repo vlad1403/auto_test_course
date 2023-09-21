@@ -1,3 +1,5 @@
+#задачка поиска сообщений пришельцев
+
 from selenium import webdriver
 from webdriver_manager.microsoft import EdgeChromiumDriverManager
 import pytest

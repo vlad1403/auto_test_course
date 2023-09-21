@@ -1,3 +1,5 @@
+#главный файл для работы с курсом
+
 from selenium import webdriver
 from webdriver_manager.microsoft import EdgeChromiumDriverManager
 import pytest
